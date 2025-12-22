@@ -38,5 +38,5 @@
 
     "mini_alert": "true",
     "mini_text": "تابعنا للحصول على آخر تحديثات.",
-    "mini_link": "https://youtube.com/@juba22"
+    "mini_link": "https://youtu.be/b33D5WAZTgc"
 }
