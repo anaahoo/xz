@@ -1,0 +1,1 @@
+{'ver1':'29', 'ver2':'90', 'ver3':'\n•🔗 Fixed Link Device Problem (100% Working).\n•🎨 Premium UI Redesign (Smooth & Stylish).\n•🛠️ Bug Fixes & Stability Improvements.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://www.jubatek.com'}
